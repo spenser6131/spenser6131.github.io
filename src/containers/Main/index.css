@@ -1,0 +1,10 @@
+.main {
+  flex-direction: column;
+  position: relative;
+}
+
+.name p {
+  font-size: 25px;
+  margin: 0;
+  font-weight: bold;
+}

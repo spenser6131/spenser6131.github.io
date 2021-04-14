@@ -1,0 +1,9 @@
+.project-list {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid blue;
+}
+
+.project-selections.hidden {
+  transform: scale(0);
+}
