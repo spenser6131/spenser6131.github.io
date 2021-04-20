@@ -50,7 +50,6 @@ class Header extends Component {
           <a href="https://www.codewars.com/users/spenser6131">
             <img src={codewarsIcon} alt="Codewars: spenser6131" width="25px" height="25px" />
           </a>
-          TEST
         </div>
 
       </div>

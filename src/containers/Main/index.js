@@ -20,8 +20,6 @@ class Main extends Component {
         <div className="resume" hidden>
           resume: <a href="/Spenser Brinkman Resume.pdf">view</a> || <a href="/Spenser Brinkman Resume.pdf" download>download</a>
         </div>
-
-        <ProjectList />
       </div>
     )
   }
